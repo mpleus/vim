@@ -1,5 +1,5 @@
 call plug#begin('~/.vim/plugged')
-" Nvim-R
+" All plugins  
 Plug 'jalvesaq/Nvim-R'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
